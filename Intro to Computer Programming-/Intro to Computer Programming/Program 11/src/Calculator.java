@@ -1,0 +1,1 @@
+import java.awt.*;public class Calculator{   public static void main (String[] args)   {      //Instantiate the GUI part      Frame frm = new TheGUIPart();          //Set the application's window width and height in pixels      frm.setSize (300, 300);        //Make the window visible to the user      frm.setVisible (true);              }}
